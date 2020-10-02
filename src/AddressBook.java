@@ -12,6 +12,10 @@ public static void removeBuddy(BuddyInfo buddy) {
     buddyCollect.remove(buddy);
 }
 
+    public void newMethod() {
+        // new stuff
+    }
+
 public static void main(String[] args) {
     System.out.println("Address Book");
 
