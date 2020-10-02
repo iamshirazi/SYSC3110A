@@ -20,7 +20,7 @@ public static void main(String[] args) {
     AddressBook addressBook = new AddressBook();
     addressBook.addBuddy(buddy);
     addressBook.removeBuddy(buddy);
-
+//Added text
 }
 
 }
